@@ -43,7 +43,7 @@ This project includes the following analyses:
 - Average order value (AOV)
 - Daily sales trend analysis
 - Customer ranking using SQL Window Functions
-
+- RFM customer segmentation analysis
 ---
 
 ## 🧠 SQL Skills Demonstrated
